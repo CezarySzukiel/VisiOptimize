@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visioptimize/static/css/main.1a7488ce.css",
+    "main.js": "/visioptimize/static/js/main.044d41ad.js",
+    "index.html": "/visioptimize/index.html",
+    "main.1a7488ce.css.map": "/visioptimize/static/css/main.1a7488ce.css.map",
+    "main.044d41ad.js.map": "/visioptimize/static/js/main.044d41ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a7488ce.css",
+    "static/js/main.044d41ad.js"
+  ]
+}
