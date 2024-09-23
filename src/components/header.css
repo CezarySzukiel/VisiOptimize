@@ -1,0 +1,34 @@
+.headerContainer {
+  	position: fixed;
+  	z-index: 2;
+	max-width: 100%;
+	width: 100%;
+	height: 5rem;
+	display: flex;
+	background-color: #606777;
+
+}
+
+.logoContainer {
+	height: 100%;
+	padding: 0;
+	margin-left: 15px;
+	margin-right: 4rem;
+	background-color: transparent;
+}
+
+.logoContainer img {
+    max-height: 70%;
+    margin: 10px;
+    background-color: transparent;
+}
+
+.buttonsContainer {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.buttonsContainer button:first-child {
+}
