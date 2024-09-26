@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Tworzenie wizytówek google my business",
+    "url": "/services/tworzenie-wizytówek/",
+    "price": "od 200 zł",
+    "element": "BusinessCards"
+  },
+  {
+    "id": 2,
+    "name": "Pozycjonowanie wizytówek google my business",
+    "url": "/services/pozycjonowanie-wizytówek/",
+    "price": "od 200 zł",
+    "element": "CreatingBusinessCards"
+  },
+  {
+    "id": 3,
+    "name": "Prowadzenie wizytówek google my business",
+    "url": "/services/prowadzenie-wizytówek/",
+    "price": "od 200 zł",
+    "element": "CreatingBusinessCards"
+  },
+  {
+    "id": 4,
+    "name": "Odzyskiwanie wizytówek google my business",
+    "url": "/services/odzyskiwanie-wizytówek/",
+    "price": "90 zł",
+    "element": "CreatingBusinessCards"
+  },
+  {
+    "id": 5,
+    "name": "Tworzenie i pozycjonowanie stron www",
+    "url": "/services/tworzenie-i-pozycjonowanie-stron/",
+    "price": "od 400 zł",
+    "element": "WebPages"
+  },
+  {
+    "id": 6,
+    "name": "Audyt SEO",
+    "url": "/services/audyt-seo/",
+    "price": "od 200 zł",
+    "element": "CreatingBusinessCards"
+  }
+]

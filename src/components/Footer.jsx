@@ -1,14 +1,14 @@
+import './footer.css';
 import { Link } from "react-router-dom";
 
 export function Footer() {
     return (
-        <footer className="Footer">
+        <footer className="footer">
             {/*<p>Napisz do nas</p>*/}
-            <Link to={`/privacy-policy/`}><p>Polityka prywatności</p></Link>
+            <Link to={`/privacy/`}><p>Polityka prywatności</p></Link>
             {/*<p>Polityka Cookies</p>*/}
             {/*<p>Ustawienia plików cookie</p>*/}
             {/*<p>Regulamin</p>*/}
-            <Link to={'/contact/'}><p>kontakt</p></Link>
             {/*<p>linki do mediów</p>*/}
         </footer>
     );
